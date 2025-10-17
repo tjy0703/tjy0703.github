@@ -6,24 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingyi Tang(唐婧仪)"
-description              : "Ph.D. candidate at SIGS, Tsinghua University."
-repository               : "tjy0703/tjy0703.github.io"
+title                    : "Lorem ipsum"
+description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
-# # 站点根地址（你的用户名页）
-# url: "https://tjy0703.github.io"
-# # 个人主页必须置空，否则会挂到子路径
-# baseurl: ""
-
-# 声明 _pages 为可输出集合，这样 _pages/about.md 才会被渲染到站点
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:path/
-
 # google analytics
-google_analytics_id      :   # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -32,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingyi Tang(唐婧仪)"
-  avatar           : "images/Avatar.jpg"
-  bio              : "Tsinghua University  tangjingyi96ll@gmail.com"
-  location         : "Shenzhen, China"
+  name             : "Lorem ipsum"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Lorem ipsum College"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=gJGdfrYAAAAJ&hl=zh-CN"
-  email            : "tangjingyi96ll@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -54,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"zeyu-chen-359041271" # e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
