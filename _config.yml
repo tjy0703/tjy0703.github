@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zeyu Chen(陈泽宇)"
-description              : "Master Student at SIGS, Tsinghua University."
-repository               : "ZeyuuuChen/ZeyuuuChen.github.io"
+title                    : "Jingyi Tang(唐婧仪)"
+description              : "Ph.D. candidate at SIGS, Tsinghua University."
+repository               : "tjy0703/tjy0703.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : 6TxMnK4AAAAJ  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : gJGdfrYAAAAJ  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zeyu Chen(陈泽宇)"
+  name             : "Jingyi Tang(唐婧仪)"
   avatar           : "images/Avatar.jpg"
-  bio              : "Tsinghua University  chenzeyu114@gamil.com"
-  location         : "Munich, Germany"
+  bio              : "Tsinghua University  tangjingyi96ll@gmail.com"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=6TxMnK4AAAAJ"
-  email            : "chenzeyu114@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=gJGdfrYAAAAJ&hl=zh-CN"
+  email            : "tangjingyi96ll@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zeyu-chen-359041271" # e.g., "linkedin username"
+  linkedin         : #"zeyu-chen-359041271" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
