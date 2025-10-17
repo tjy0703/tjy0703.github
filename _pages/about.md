@@ -45,10 +45,11 @@ Close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L / ICRA 2024</div><img src='images/ROV6D.png' alt="ROV6D" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles**](https://ieeexplore.ieee.org/document/10313927)
+**ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles**
 
 **Jingyi Tang**, Zeyu Chen, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
+[**Paper**](https://ieeexplore.ieee.org/document/10313927) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**DATASET**](https://github.com/THUSIGSICLAB/ROV6D) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
@@ -108,7 +109,7 @@ Zeyu Chen, **Jingyi Tang**, Kunyi Li, Gu Wang, and Xiu Li.
 **Jingyi Tang** (first author), Rui Jiang, Zhen Chen, and Zhengjia Zhu.  
 *Optics Express*, **30**(9):14737–14747, **2022-04**.
 
-[**Publisher page**](https://opg.optica.org/abstract.cfm?uri=oe-30-9-14737) &nbsp;|&nbsp; [**DOI: 10.1364/OE.453981**](https://pubmed.ncbi.nlm.nih.gov/35473211/)  
+[**Paper**](https://opg.optica.org/abstract.cfm?uri=oe-30-9-14737) &nbsp;|&nbsp; [**DOI: 10.1364/OE.453981**](https://pubmed.ncbi.nlm.nih.gov/35473211/)  
 <strong><span class='show_paper_citations' data=''></span></strong>
 
 </div>
