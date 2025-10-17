@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😎 About Me
-I am a **final-year Ph.D. candidate** at the [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html), SIGS, Tsinghua University, advised by Prof. [Xiangyang Ji](https://www.au.tsinghua.edu.cn/info/1080/3178.htm) and Prof. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm).  
-I received both my **B.Eng.** and **M.Eng.** from the **School of Mechanical Engineering, Northwestern Polytechnical University (NPU)**.  
-Before my Ph.D., I spent **one year at Peng Cheng Laboratory** as an assistant engineer.
+I am a **final-year Ph.D. candidate** at the [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html), SIGS, **Tsinghua University**, advised by Prof. [Xiangyang Ji](https://www.au.tsinghua.edu.cn/info/1080/3178.htm) and Prof. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm).  
+I received both my B.Eng. and M.Eng. from the School of Mechanical Engineering, Northwestern Polytechnical University (NPU).  
+Before my Ph.D., I spent one year at Peng Cheng Laboratory as an assistant engineer.
 
 My research interests focus on **computer vision for robotics** in challenging environments — **6D object pose estimation, 3D reconstruction,** and **underwater perception**.
 
@@ -28,7 +28,7 @@ Close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citation
 
 <span style="color: #FF5733;">**Currently, I am seeking a Postdoctoral position starting in Spring 2026.**</span>
 
-*Google Scholar*: <strong><span class='show_paper_citations' data='gJGdfrYAAAAJ'></span></strong>  <!-- 总引用（作者ID） -->
+<a href="https://scholar.google.com/citations?user=gJGdfrYAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper presented at an **ICRA 2025 Workshop**.
