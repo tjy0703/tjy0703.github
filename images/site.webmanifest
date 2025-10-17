@@ -1,16 +1,16 @@
 {
-    "name": "Zeyu Chen（陈泽宇）",
-    "short_name": "Zeyu Chen（陈泽宇）",
+    "name": "",
+    "short_name": "",
     "icons": [
        {
-          "src": "/icon.jpeg",
+          "src": "/android-chrome-192x192.png",
           "sizes": "192x192",
-          "type": "image/jpeg"
+          "type": "image/png"
        },
        {
-        "src": "/icon.jpeg",
+        "src": "/android-chrome-512x512.png",
         "sizes": "512x512",
-        "type": "image/jpeg"
+        "type": "image/png"
         }
     ],
     "theme_color": "#FFFFFF",
