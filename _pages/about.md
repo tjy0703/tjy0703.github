@@ -18,25 +18,25 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😎 About Me
-I am a **final-year Ph.D. candidate** at the [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html), SIGS, **Tsinghua University**, advised by Prof. [Xiangyang Ji](https://www.au.tsinghua.edu.cn/info/1080/3178.htm) and Prof. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm).  
+I am a **final-year Ph.D. candidate** at the [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html){:target="_blank" rel="noopener"}, SIGS, **Tsinghua University**, advised by Prof. [Xiangyang Ji](https://www.au.tsinghua.edu.cn/info/1080/3178.htm){:target="_blank" rel="noopener"} and Prof. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm){:target="_blank" rel="noopener"}.  
 I received both my B.Eng. and M.Eng. from the School of Mechanical Engineering, Northwestern Polytechnical University (NPU).  
 Before my Ph.D., I spent one year at Peng Cheng Laboratory as an assistant engineer.
 
 My research interests focus on **computer vision for robotics** in challenging environments — **6D object pose estimation, 3D reconstruction,** and **underwater perception**.
 
-Close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citations?user=htu3c7wAAAAJ&hl=zh-CN), [Bowen Fu](https://fubowen1229.github.io/), and [Zeyu Chen](https://zeyuuuchen.github.io/).
+Close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citations?user=htu3c7wAAAAJ&hl=zh-CN){:target="_blank" rel="noopener"}, [Bowen Fu](https://fubowen1229.github.io/){:target="_blank" rel="noopener"}, and [Zeyu Chen](https://zeyuuuchen.github.io/){:target="_blank" rel="noopener"}.
 
 <span style="color: #FF5733;">**Currently, I am seeking a Postdoctoral position starting in Spring 2026.**</span>
 
 <a href="https://scholar.google.com/citations?user=gJGdfrYAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper presented at an **ICRA 2025 Workshop**.
+- *2025.01*: &nbsp;🎉 One paper presented at an **ICRA 2025 Workshop**.
 - *2024.06*: &nbsp;🎉🎉 One paper accepted by **ECCV 2024**.
 - *2024.06*: &nbsp;🎉🎉 One paper accepted by **IROS 2024**.
 - *2024.01*: &nbsp;🎉🎉 One paper published in **RA-L** and accepted by **ICRA 2024**.
-- *2022.10*: &nbsp;🏆🏆 **Winner of BOP Challenge 2022**.
-- *2022.04*: &nbsp;🎉🎉 One paper published in **Optics Express**.
+- *2022.10*: &nbsp;🏆 **Winner of BOP Challenge 2022**.
+- *2022.04*: &nbsp;🎉 One paper published in **Optics Express**.
 
 # 📝 Publications 
 
@@ -49,8 +49,10 @@ Close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citation
 
 **Jingyi Tang**, Zeyu Chen, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
-[**Paper**](https://ieeexplore.ieee.org/document/10313927) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**DATASET**](https://github.com/THUSIGSICLAB/ROV6D) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/10313927){:target="_blank" rel="noopener"}
+<!-- 如需显示该文被引，把下面这行的 data= 换成该论文在 Scholar 里的 citation_for_view 字符串；不确定就先删掉这行 -->
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+[**DATASET**](https://github.com/THUSIGSICLAB/ROV6D){:target="_blank" rel="noopener"}
 </div>
 </div>
 - **J. Tang**, Z. Chen, B. Fu, W. Lu, S. Li, X. Li, and X. Ji. “ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles.” **IEEE Robotics and Automation Letters (RA-L)**, 2023; presented at **ICRA 2024**.
@@ -62,7 +64,7 @@ Close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citation
 
 **Jingyi Tang**, Gu Wang, Zeyu Chen, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
-[**Paper**](https://arxiv.org/abs/2409.16600) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2409.16600){:target="_blank" rel="noopener"}
 </div>
 </div>
 - **J. Tang**, G. Wang, Z. Chen, S. Li, X. Li, and X. Ji. “FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation.” **ECCV 2024**.
@@ -78,7 +80,7 @@ Close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citation
 
 Zeyu Chen, **Jingyi Tang**, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li.
 
-[**Paper**](https://arxiv.org/abs/2410.08092) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2410.08092){:target="_blank" rel="noopener"}
 </div>
 </div>
 - Z. Chen, **J. Tang**, G. Wang, S. Li, X. Li, X. Ji, and X. Li. “UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images.” **IROS 2024**.
@@ -91,9 +93,7 @@ Zeyu Chen, **Jingyi Tang**, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and
 
 Zeyu Chen, **Jingyi Tang**, Kunyi Li, Gu Wang, and Xiu Li.
 
-[**Paper**](https://sites.google.com/view/aq2uasim/call-for-papers) 
-<strong><span class='show_paper_citations' data=''></span></strong>
-
+[**Paper**](https://sites.google.com/view/aq2uasim/call-for-papers){:target="_blank" rel="noopener"}
 </div>
 </div>
 - Z. Chen, **J. Tang**, K. Li, G. Wang, X. Li. “AquaSim: A Unity3D-based Framework for Multimodal Underwater Simulation in Computer Vision Research.” **ICRA Workshop**, 2025.
@@ -109,61 +109,12 @@ Zeyu Chen, **Jingyi Tang**, Kunyi Li, Gu Wang, and Xiu Li.
 **Jingyi Tang** (first author), Rui Jiang, Zhen Chen, and Zhengjia Zhu.  
 *Optics Express*, **30**(9):14737–14747, **2022-04**.
 
-[**Paper**](https://opg.optica.org/abstract.cfm?uri=oe-30-9-14737) &nbsp;|&nbsp; [**DOI: 10.1364/OE.453981**](https://pubmed.ncbi.nlm.nih.gov/35473211/)  
-<strong><span class='show_paper_citations' data=''></span></strong>
-
+[**Publisher page**](https://opg.optica.org/abstract.cfm?uri=oe-30-9-14737){:target="_blank" rel="noopener"} &nbsp;|&nbsp; [**DOI: 10.1364/OE.453981**](https://pubmed.ncbi.nlm.nih.gov/35473211/){:target="_blank" rel="noopener"}
 </div>
 </div>
 - **J. Tang**, R. Jiang, Z. Chen, and Z. Zhu. “Monocular vision aided optical tracking for underwater optical wireless communications.” *Optics Express* **30**(9):14737–14747, **Apr 2022**.
 
 # 🏆 Competitions
 - *2022.10*: **BOP Challenge 2022** — **The Overall Best Method**, **The Best RGB-only Method**, etc.  
-  **Team**: Xingyu Liu, Ruida Zhang, Chenyangguang Zhang, Bowen Fu, Jiwen Tang, Xiquan Liang, **Jingyi Tang**, Xiaotian Cheng, Yukang Zhang, Gu Wang, Xiangyang Ji
-  **Links**: [Code](https://github.com/shanice-l/gdrnpp_bop2022) · [Slides](https://cmp.felk.cvut.cz/sixd/workshop_2022/slides/bop_challenge_2022_results.pdf)
-
-# 📖 Educations
-- *2021.09 – 2025.12 (expected)* &nbsp; **Ph.D.,** **Tsinghua University (SIGS)**, Shenzhen / Beijing  
-  Supervisors: Prof. Xiangyang Ji, Prof. Xiu Li
-- *2018.09 – 2021.06* &nbsp; **M.Eng.,** School of Mechanical Engineering, **Northwestern Polytechnical University (NPU)**
-- *2014.09 – 2018.06* &nbsp; **B.Eng.,** School of Mechanical Engineering, **Northwestern Polytechnical University (NPU)**
-
-# 🧪 Experience
-- *2020.07 – 2021.08* &nbsp; **Assistant Engineer, Peng Cheng Laboratory**, Shenzhen  
-  Robotics & Vision applications in challenging environments.
-
-# 🎖️ Selected Scholarships
-- *2024*: **First-Class Scholarship**, Tsinghua University SIGS
-- *2018*: **National Scholarship (Graduate)**, China
-- *2014*: **National Scholarship (Undergraduate)**, China
-- *2013–2019*: **First-Class Scholarship (x5)**, Northwestern Polytechnical University (Top 10%)
-
-# 📷 Beyond Research
-- Reviewer: RA-L, CVPR, NeurIPS, ICRA, IROS
-- Teaching & Mentoring: TA for *Frontiers of the AI Industry*; co-supervised 3 master’s students
-- Interests: Piano (Level 10), travel
-
-<!-- 访客地图：不需要可删除；改大小请调整宽高 -->
-<div id="map-container" style="width: 220px; height: 150px; margin: 0 auto; text-align: center;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=88a8ba&w=a&t=n&d=sg9PcHismqj0mHZs0fKi8r6yAkYH8v7q0RzBbugmM0s&co=ffffff&cmo=ff5353&cmn=3fcc3a'></script>
-</div>
-
-<p style="text-align:center;">You are visitor #<span id="visits">...</span> to this site.</p>
-<script>
-  (function () {
-    const NS  = "jingyitang";      // 取一个稳定的命名空间（全站唯一）
-    const KEY = "homepage";        // 这个 key 表示“主页累计访次”
-    const url = `https://api.countapi.xyz/hit/${NS}/${KEY}`;
-    fetch(url).then(r => r.json()).then(d => {
-      document.getElementById('visits').textContent = d.value;
-    }).catch(() => {
-      document.getElementById('visits').textContent = '—';
-    });
-  })();
-</script>
-
-<footer>
-    <div style="text-align: center;">
-        <p style="color: #808080; margin: 0;">&copy; 2025 J.T.</p>
-    </div>
-</footer>
-
+  **Team**: Xingyu Liu, Ruida Zhang, Chenyangguang Zhang, Bowen Fu, Jiwen Tang, Xiquan Liang, **Jingyi Tang**, Xiaotian Cheng, Yukang Zhang, Gu Wang, Xiangyang Ji  
+  **Links**: [Code](https://github.com/shanice-l/gdrnpp_bop2022){:target="_blank" rel="noopener"} · [Slides](https://cmp.felk.cvut.cz/s))
