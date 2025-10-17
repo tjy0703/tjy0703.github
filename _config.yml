@@ -17,10 +17,10 @@ url: "https://tjy0703.github.io"
 baseurl: ""
 
 # 声明 _pages 为可输出集合，这样 _pages/about.md 才会被渲染到站点
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+# collections:
+#   pages:
+#     output: true
+#     permalink: /:path/
 
 # google analytics
 google_analytics_id      : gJGdfrYAAAAJ  # get google_analytics_id from https://analytics.google.com/analytics/
