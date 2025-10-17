@@ -11,6 +11,17 @@ description              : "Ph.D. candidate at SIGS, Tsinghua University."
 repository               : "tjy0703/tjy0703.github.io"
 google_scholar_stats_use_cdn : true
 
+# 站点根地址（你的用户名页）
+url: "https://tjy0703.github.io"
+# 个人主页必须置空，否则会挂到子路径
+baseurl: ""
+
+# 声明 _pages 为可输出集合，这样 _pages/about.md 才会被渲染到站点
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 # google analytics
 google_analytics_id      : gJGdfrYAAAAJ  # get google_analytics_id from https://analytics.google.com/analytics/
 
