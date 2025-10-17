@@ -161,8 +161,4 @@ Zeyu Chen, **Jingyi Tang**, Kunyi Li, Gu Wang, and Xiu Li.
   })();
 </script>
 
-<footer>
-    <div style="text-align: center;">
-        <p style="color: #808080; margin: 0;">&copy; 2025 J.T.</p>
-    </div>
-</footer>
+
