@@ -22,13 +22,6 @@ I am a **final-year Ph.D. candidate** at the [Intelligent Computing Laboratory](
 I received both my **B.Eng.** and **M.Eng.** from the **School of Mechanical Engineering, Northwestern Polytechnical University (NPU)**.  
 Before my Ph.D., I spent **one year at Peng Cheng Laboratory** as an assistant engineer.
 
-My research interest lies in applying **machine learning methods** for **computer vision** and **robotics** to tasks such as pose estimation, 3D reconstruction, and navigation in challenging environments.
-
-Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citations?user=htu3c7wAAAAJ&hl=zh-CN), [Jingyi Tang](https://scholar.google.com/citations?user=gJGdfrYAAAAJ), [Bowen Fu](https://fubowen1229.github.io/).
-
-<span style="color: #FF5733;">**Currently, I'm actively seeking for a PhD position in Fall, 2025.**</span>
-
-
 My research interests focus on **computer vision for robotics** in challenging environments — **6D object pose estimation, 3D reconstruction,** and **underwater perception**.
 
 Close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citations?user=htu3c7wAAAAJ&hl=zh-CN), [Bowen Fu](https://fubowen1229.github.io/), and [Zeyu Chen](https://zeyuuuchen.github.io/).
