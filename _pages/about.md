@@ -1,4 +1,4 @@
-请帮忙检查一下下面的about.md文件是否有问题：---
+---
 permalink: /
 title: ""
 excerpt: ""
